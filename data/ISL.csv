@@ -1,0 +1,116 @@
+,home_score,away_score,home_team,away_team
+1,1,1,Hyderabad,Kerala Blasters
+2,1,1,Kerala Blasters,Jamshedpur
+3,1,0,ATK Mohun Bagan,Hyderabad
+4,3,1,Hyderabad,ATK Mohun Bagan
+5,0,1,Jamshedpur,Kerala Blasters
+6,0,1,ATK Mohun Bagan,Jamshedpur
+7,0,1,East Bengal,Bengaluru
+8,4,4,Goa,Kerala Blasters
+9,5,1,Jamshedpur,Odisha
+10,3,1,Kerala Blasters,Mumbai City
+11,0,1,Chennaiyin,ATK Mohun Bagan
+12,2,1,Hyderabad,Mumbai City
+13,2,1,Bengaluru,Odisha
+14,1,4,Chennaiyin,Jamshedpur
+15,2,2,Kerala Blasters,ATK Mohun Bagan
+16,3,2,Hyderabad,Goa
+17,2,1,NorthEast United,Bengaluru
+18,3,2,Jamshedpur,Mumbai City
+19,2,2,Odisha,Chennaiyin
+20,1,0,Kerala Blasters,East Bengal
+21,4,1,Mumbai City,Odisha
+22,3,1,ATK Mohun Bagan,NorthEast United
+23,1,2,Bengaluru,Hyderabad
+24,3,0,Jamshedpur,Kerala Blasters
+25,0,5,Chennaiyin,Goa
+26,1,2,Hyderabad,ATK Mohun Bagan
+27,1,2,East Bengal,Odisha
+28,0,1,Chennaiyin,Mumbai City
+29,3,1,Bengaluru,Jamshedpur
+30,2,1,Kerala Blasters,NorthEast United
+31,1,1,Mumbai City,ATK Mohun Bagan
+32,2,2,East Bengal,Chennaiyin
+33,1,1,Goa,Odisha
+34,0,5,NorthEast United,Hyderabad
+35,0,1,Kerala Blasters,Bengaluru
+36,3,1,ATK Mohun Bagan,East Bengal
+37,1,0,Jamshedpur,Goa
+38,3,0,Bengaluru,Chennaiyin
+39,1,1,Mumbai City,NorthEast United
+40,0,0,ATK Mohun Bagan,Odisha
+41,1,1,Goa,NorthEast United
+42,3,2,Jamshedpur,NorthEast United
+43,0,3,Hyderabad,Jamshedpur
+44,0,2,Goa,Mumbai City
+45,1,1,East Bengal,NorthEast United
+46,2,0,ATK Mohun Bagan,Bengaluru
+47,1,1,Odisha,ATK Mohun Bagan
+48,2,3,NorthEast United,Jamshedpur
+49,3,0,Kerala Blasters,Chennaiyin
+50,2,1,Hyderabad,Kerala Blasters
+51,1,0,Mumbai City,East Bengal
+52,0,4,East Bengal,Hyderabad
+53,2,1,Chennaiyin,NorthEast United
+54,1,0,Kerala Blasters,Hyderabad
+55,1,0,Goa,Chennaiyin
+56,2,2,Kerala Blasters,Goa
+57,0,1,Jamshedpur,Chennaiyin
+58,2,1,ATK Mohun Bagan,Goa
+59,1,1,Hyderabad,East Bengal
+60,2,3,NorthEast United,ATK Mohun Bagan
+61,2,4,Chennaiyin,Bengaluru
+62,1,1,Kerala Blasters,Jamshedpur
+63,0,3,Chennaiyin,Kerala Blasters
+64,6,1,Hyderabad,Odisha
+65,0,0,NorthEast United,Kerala Blasters
+66,0,3,Mumbai City,Kerala Blasters
+67,0,4,Odisha,Jamshedpur
+68,1,1,Chennaiyin,Hyderabad
+69,1,1,Bengaluru,Goa
+70,0,2,NorthEast United,Odisha
+71,2,3,Odisha,Hyderabad
+72,1,2,Goa,East Bengal
+73,0,2,Odisha,Kerala Blasters
+74,1,0,Jamshedpur,East Bengal
+75,0,3,Mumbai City,Bengaluru
+76,0,2,Goa,ATK Mohun Bagan
+77,3,3,NorthEast United,Mumbai City
+78,3,3,Bengaluru,ATK Mohun Bagan
+79,3,0,Mumbai City,Goa
+80,0,0,Jamshedpur,Bengaluru
+81,2,1,Chennaiyin,Odisha
+82,1,1,ATK Mohun Bagan,Chennaiyin
+83,1,3,Bengaluru,Mumbai City
+84,2,1,Goa,Bengaluru
+85,6,4,Odisha,East Bengal
+86,2,1,NorthEast United,Goa
+87,1,3,Goa,Jamshedpur
+88,4,2,ATK Mohun Bagan,Kerala Blasters
+89,1,5,ATK Mohun Bagan,Mumbai City
+90,1,1,East Bengal,Kerala Blasters
+91,0,1,Hyderabad,Chennaiyin
+92,1,1,Odisha,Goa
+93,1,0,Odisha,NorthEast United
+94,2,1,Kerala Blasters,Odisha
+95,1,0,Hyderabad,Bengaluru
+96,1,1,East Bengal,Jamshedpur
+97,4,2,Bengaluru,NorthEast United
+98,1,2,NorthEast United,Chennaiyin
+99,1,1,Bengaluru,East Bengal
+100,1,1,Bengaluru,Kerala Blasters
+101,0,3,East Bengal,ATK Mohun Bagan
+102,5,1,Hyderabad,NorthEast United
+103,3,1,Odisha,Bengaluru
+104,1,1,Jamshedpur,Hyderabad
+105,1,0,Mumbai City,Chennaiyin
+106,4,2,Mumbai City,Jamshedpur
+107,0,0,Chennaiyin,East Bengal
+108,1,3,Mumbai City,Hyderabad
+109,2,0,NorthEast United,East Bengal
+110,4,2,Odisha,Mumbai City
+111,1,1,Goa,Hyderabad
+112,2,1,Jamshedpur,ATK Mohun Bagan
+113,3,4,East Bengal,Goa
+114,0,0,East Bengal,Mumbai City
+115,2,2,ATK Mohun Bagan,Hyderabad
