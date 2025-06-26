@@ -50,9 +50,9 @@ bivariate_poisson_ISL/
 │   └── ISL_2021_22.csv         # Raw dataset for the 2021-22 ISL season
 ├── plots/                      # Directory for saving generated plots
 ├── scripts/
-│   ├── analysis.R              # Main R script to run the full analysis
-│   ├── double_poisson.stan     # Stan code for the Double Poisson model
-│   └── bivariate_poisson.stan  # Stan code for the Bivariate Poisson model
+│   ├── Project.R               # Main R script to run the full analysis
+│   ├── hier_model.stan         # Stan code for the Bivariate Poisson model
+│   └── non_hier_model.stan     # Stan code for the Double Poisson model
 └── README.md                   # Project overview and documentation
 ```
 
