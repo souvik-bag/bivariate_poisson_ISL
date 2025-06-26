@@ -44,16 +44,18 @@ The growing field of sports analytics presents exciting opportunities for applyi
 
 ## Directory Structure
 
-
+```
 bivariate_poisson_ISL/
 ├── data/
-│   └── ISL_2021_22.csv         # The raw dataset for the season
-├── plots/                      # Directory where generated plots are saved
+│   └── ISL_2021_22.csv         # Raw dataset for the 2021-22 ISL season
+├── plots/                      # Directory for saving generated plots
 ├── scripts/
-│   ├── analysis.R              # Main R script to run the entire analysis
+│   ├── analysis.R              # Main R script to run the full analysis
 │   ├── double_poisson.stan     # Stan code for the Double Poisson model
 │   └── bivariate_poisson.stan  # Stan code for the Bivariate Poisson model
-└── README.md                   # This file
+└── README.md                   # Project overview and documentation
+```
+
 ## Installation and Setup
 
 To get this project running on your local machine, follow these steps:
