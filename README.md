@@ -1,5 +1,3 @@
-# Analysis of Indian Super League Data Using Bivariate Poisson Model and Double Poisson Model
-
 # Bayesian Analysis of Indian Super League Football Matches
 
 ## Project Overview
