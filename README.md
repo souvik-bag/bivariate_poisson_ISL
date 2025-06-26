@@ -117,6 +117,8 @@ The scoring intensities (`θ`) are modeled hierarchically, incorporating:
 -   A comparative analysis revealed that the **Bivariate Poisson model** provided a more nuanced representation of team defensive capabilities.
 -   The project demonstrates a strong command of hierarchical Bayesian modeling, MCMC diagnostics, and model comparison in a real-world sports analytics application.
 
+![Comparison of actual and predicted goals](plots/scores.png)
+
 ## Future Enhancements
 
 -   **Data Expansion:** Apply the models to a larger dataset from a different league to further validate the findings.
