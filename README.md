@@ -79,7 +79,7 @@ To get this project running on your local machine, follow these steps:
 ## How to Run
 
 1.  Set your working directory in R/RStudio to the root of the cloned repository.
-2.  Open the `analysis.R` script.
+2.  Open the `Project.R` script.
 3.  Run the script from top to bottom.
 
 The script will automatically:
@@ -91,15 +91,25 @@ The script will automatically:
 ## Model Highlights
 
 ### Double Poisson Model
-Models the goals scored by home ($y_1$) and away ($y_2$) teams as independent events.
-$$ y_{g1} \sim \text{Poisson}(\theta_{g1}) $$
-$$ y_{g2} \sim \text{Poisson}(\theta_{g2}) $$
+
+Models the goals scored by home (`y₁`) and away (`y₂`) teams as independent Poisson processes:
+
+```
+y_g1 ~ Poisson(θ_g1)
+y_g2 ~ Poisson(θ_g2)
+```
 
 ### Bivariate Poisson Model
-Models the goals jointly, introducing a covariance parameter ($\theta_{g3}$) to account for the dependency between the two goal counts.
-$$ (y_{g1}, y_{g2}) \sim \text{BP}(\theta_{g1}, \theta_{g2}, \theta_{g3}) $$
 
-The scoring intensities ($\theta$) are modeled hierarchically based on home advantage and team-specific attack and defense parameters.
+Models the goals jointly, introducing a covariance parameter (`θ_g3`) to capture the dependency between the two goal counts:
+
+```
+(y_g1, y_g2) ~ BivariatePoisson(θ_g1, θ_g2, θ_g3)
+```
+
+The scoring intensities (`θ`) are modeled hierarchically, incorporating:
+- Home advantage
+- Team-specific attack and defense parameters
 
 ## Results and Key Findings
 
@@ -119,6 +129,6 @@ For any inquiries or collaboration opportunities, please feel free to reach out:
 
 -   **Name:** Souvik Bag
 -   **Email:** `sbk29@umsystem.edu`
--   **LinkedIn:** [Your LinkedIn Profile URL]
+-   **LinkedIn:** [https://www.linkedin.com/in/souvikbag/]
 -   **GitHub:** [https://github.com/souvik-bag](https://github.com/souvik-bag)
 
